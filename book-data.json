@@ -1,0 +1,663 @@
+{
+  "passageNumber": 37,
+  "title": "Planet Earth and the Solar System",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Planet Earth and the Solar System",
+      "cn": "第 37 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "We live on the planet Earth.",
+      "cn": "我们生活在地球这颗行星上。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "Our planet has water and land.",
+      "cn": "我们的星球有水和陆地。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "In the water, there are lots of amazing fish and sea creatures.",
+      "cn": "水里有许多奇妙的鱼和海洋生物。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "On land, we build comfortable homes, grow plants and take care of animals.",
+      "cn": "在陆地上，我们建造舒适的家，种植植物并照顾动物。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "The moon travels around the earth.",
+      "cn": "月亮围绕地球运行。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "Brave astronauts travel to the moon in a rocket to see what they can find.",
+      "cn": "勇敢的宇航员乘火箭去月球，看看他们能发现什么。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "Earth is in the solar system.",
+      "cn": "地球在太阳系中。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "At the central part of our solar system is the sun.",
+      "cn": "太阳位于我们太阳系的中心部分。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "There are 8 planets in our solar system that all move around the sun in a big circle.",
+      "cn": "太阳系中有 8 颗行星，它们都围绕太阳沿一个大圆圈运动。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "The planet closest to the sun is Mercury.",
+      "cn": "离太阳最近的行星是水星。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "As the biggest planet, Jupiter is made of gas.",
+      "cn": "作为最大的行星，木星由气体组成。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/12.png",
+      "en": "The planet furthest away from the sun is Neptune, feeling quite lonely in the outer reaches.",
+      "cn": "离太阳最远的行星是海王星，它在遥远的外层区域显得相当孤独。",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "all": {
+      "phonetic": "/ɔl/",
+      "translation": "全部"
+    },
+    "amazing": {
+      "phonetic": "/əˈmeɪzɪŋ/",
+      "translation": "惊人的"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "animals": {
+      "phonetic": "/ˈænəməlz/",
+      "translation": "动物"
+    },
+    "are": {
+      "phonetic": "/ər/",
+      "translation": "是"
+    },
+    "around": {
+      "phonetic": "/əraʊnd/",
+      "translation": "大约"
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "translation": "作为；像"
+    },
+    "astronaut": {
+      "phonetic": "/ˈæstrənɔːt/",
+      "translation": "宇航员",
+      "cardId": "core-006"
+    },
+    "astronauts": {
+      "phonetic": "/ˈæstrəˌnɔts/",
+      "translation": "宇航员"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "translation": "在；于"
+    },
+    "away": {
+      "phonetic": "/əˈweɪ/",
+      "translation": "离开"
+    },
+    "big": {
+      "phonetic": "/bɪg/",
+      "translation": "大的"
+    },
+    "biggest": {
+      "phonetic": "/ˈbɪgəst/",
+      "translation": "最大"
+    },
+    "brave": {
+      "phonetic": "/breɪv/",
+      "translation": "勇敢的",
+      "cardId": "core-005"
+    },
+    "build": {
+      "phonetic": "/bɪld/",
+      "translation": "建造"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "care": {
+      "phonetic": "/keə(r)/",
+      "translation": "照顾；关心",
+      "cardId": "core-004"
+    },
+    "central": {
+      "phonetic": "/ˈsentrəl/",
+      "translation": "中心的",
+      "cardId": "core-010"
+    },
+    "circle": {
+      "phonetic": "/ˈsɜːkl/",
+      "translation": "圆圈",
+      "cardId": "core-011"
+    },
+    "closest": {
+      "phonetic": "/ˈkloʊsəst/",
+      "translation": "最接近的"
+    },
+    "comfortable": {
+      "phonetic": "/ˈkʌmftəbl/",
+      "translation": "舒适的",
+      "cardId": "core-003"
+    },
+    "creature": {
+      "phonetic": "/ˈkriːtʃə(r)/",
+      "translation": "生物",
+      "cardId": "core-002"
+    },
+    "creatures": {
+      "phonetic": "/ˈkriʧərz/",
+      "translation": "生物"
+    },
+    "earth": {
+      "phonetic": "/ərθ/",
+      "translation": "地球"
+    },
+    "feeling": {
+      "phonetic": "/ˈfilɪŋ/",
+      "translation": "感觉"
+    },
+    "find": {
+      "phonetic": "/faɪnd/",
+      "translation": "寻找"
+    },
+    "fish": {
+      "phonetic": "/fɪʃ/",
+      "translation": "鱼"
+    },
+    "from": {
+      "phonetic": "/frʌm/",
+      "translation": "从"
+    },
+    "furthest": {
+      "phonetic": "/ˈfərθəst/",
+      "translation": "最远的"
+    },
+    "gas": {
+      "phonetic": "/ɡæs/",
+      "translation": "气体",
+      "cardId": "core-012"
+    },
+    "grow": {
+      "phonetic": "/groʊ/",
+      "translation": "生长"
+    },
+    "has": {
+      "phonetic": "/həz/",
+      "translation": "有"
+    },
+    "homes": {
+      "phonetic": "/hoʊmz/",
+      "translation": "家园"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "translation": "是"
+    },
+    "jupiter": {
+      "phonetic": "/ˈʤupɪtər/",
+      "translation": "木星"
+    },
+    "land": {
+      "phonetic": "/lænd/",
+      "translation": "土地"
+    },
+    "live": {
+      "phonetic": "/lɪv/",
+      "translation": "居住"
+    },
+    "lonely": {
+      "phonetic": "/ˈləʊnli/",
+      "translation": "孤独的",
+      "cardId": "core-014"
+    },
+    "lots": {
+      "phonetic": "/lɑts/",
+      "translation": "地段"
+    },
+    "made": {
+      "phonetic": "/meɪd/",
+      "translation": "制成"
+    },
+    "mercury": {
+      "phonetic": "/ˈmərkjəri/",
+      "translation": "汞"
+    },
+    "moon": {
+      "phonetic": "/mun/",
+      "translation": "月亮"
+    },
+    "move": {
+      "phonetic": "/muv/",
+      "translation": "移动"
+    },
+    "neptune": {
+      "phonetic": "/ˈnɛptun/",
+      "translation": "海王星"
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "translation": "……的"
+    },
+    "on": {
+      "phonetic": "/ɑːn/",
+      "translation": "在……上"
+    },
+    "our": {
+      "phonetic": "/ɑr/",
+      "translation": "我们的"
+    },
+    "outer": {
+      "phonetic": "/ˈaʊtə(r)/",
+      "translation": "外部的",
+      "cardId": "core-015"
+    },
+    "part": {
+      "phonetic": "/pɑrt/",
+      "translation": "部分"
+    },
+    "planet": {
+      "phonetic": "/ˈplænɪt/",
+      "translation": "行星",
+      "cardId": "core-001"
+    },
+    "planets": {
+      "phonetic": "/ˈplænəts/",
+      "translation": "行星"
+    },
+    "plants": {
+      "phonetic": "/plænts/",
+      "translation": "植物"
+    },
+    "quite": {
+      "phonetic": "/kwaɪt/",
+      "translation": "相当",
+      "cardId": "core-013"
+    },
+    "reach": {
+      "phonetic": "/riːtʃ/",
+      "translation": "到达；区域",
+      "cardId": "core-016"
+    },
+    "reaches": {
+      "phonetic": "/ˈriʧɪz/",
+      "translation": "达到"
+    },
+    "rocket": {
+      "phonetic": "/ˈrɒkɪt/",
+      "translation": "火箭",
+      "cardId": "core-007"
+    },
+    "sea": {
+      "phonetic": "/si/",
+      "translation": "海"
+    },
+    "see": {
+      "phonetic": "/si/",
+      "translation": "看"
+    },
+    "solar": {
+      "phonetic": "/ˈsəʊlə(r)/",
+      "translation": "太阳的",
+      "cardId": "core-008"
+    },
+    "sun": {
+      "phonetic": "/sən/",
+      "translation": "太阳"
+    },
+    "system": {
+      "phonetic": "/ˈsɪstəm/",
+      "translation": "系统",
+      "cardId": "core-009"
+    },
+    "take": {
+      "phonetic": "/teɪk/",
+      "translation": "拿"
+    },
+    "that": {
+      "phonetic": "/ðət/",
+      "translation": "那"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "there": {
+      "phonetic": "/ðer/",
+      "translation": "那里；有"
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "travel": {
+      "phonetic": "/ˈtrævəl/",
+      "translation": "旅行"
+    },
+    "travels": {
+      "phonetic": "/ˈtrævəlz/",
+      "translation": "旅行"
+    },
+    "water": {
+      "phonetic": "/ˈwɔtər/",
+      "translation": "水"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "translation": "我们"
+    },
+    "what": {
+      "phonetic": "/wət/",
+      "translation": "什么"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "planet",
+      "speak": "planet",
+      "phonetic": "/ˈplænɪt/",
+      "meaning": "行星",
+      "memory": "planet → 行星",
+      "match": "planet",
+      "example": "We live on the planet Earth. 我们生活在地球这颗行星上。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "creature",
+      "speak": "creature",
+      "phonetic": "/ˈkriːtʃə(r)/",
+      "meaning": "生物",
+      "memory": "creature → 生物",
+      "match": "creature",
+      "example": "We live on the planet Earth. 我们生活在地球这颗行星上。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "comfortable",
+      "speak": "comfortable",
+      "phonetic": "/ˈkʌmftəbl/",
+      "meaning": "舒适的",
+      "memory": "comfortable → 舒适的",
+      "match": "comfortable",
+      "example": "On land, we build comfortable homes, grow plants and take care of animals. 在陆地上，我们建造舒适的家，种植植物并照顾动物。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "care",
+      "speak": "care",
+      "phonetic": "/keə(r)/",
+      "meaning": "照顾；关心",
+      "memory": "care → 照顾；关心",
+      "match": "care",
+      "example": "On land, we build comfortable homes, grow plants and take care of animals. 在陆地上，我们建造舒适的家，种植植物并照顾动物。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "brave",
+      "speak": "brave",
+      "phonetic": "/breɪv/",
+      "meaning": "勇敢的",
+      "memory": "brave → 勇敢的",
+      "match": "brave",
+      "example": "Brave astronauts travel to the moon in a rocket to see what they can find. 勇敢的宇航员乘火箭去月球，看看他们能发现什么。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "astronaut",
+      "speak": "astronaut",
+      "phonetic": "/ˈæstrənɔːt/",
+      "meaning": "宇航员",
+      "memory": "astronaut → 宇航员",
+      "match": "astronaut",
+      "example": "We live on the planet Earth. 我们生活在地球这颗行星上。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "rocket",
+      "speak": "rocket",
+      "phonetic": "/ˈrɒkɪt/",
+      "meaning": "火箭",
+      "memory": "rocket → 火箭",
+      "match": "rocket",
+      "example": "Brave astronauts travel to the moon in a rocket to see what they can find. 勇敢的宇航员乘火箭去月球，看看他们能发现什么。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "solar",
+      "speak": "solar",
+      "phonetic": "/ˈsəʊlə(r)/",
+      "meaning": "太阳的",
+      "memory": "solar → 太阳的",
+      "match": "solar",
+      "example": "Earth is in the solar system. 地球在太阳系中。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "system",
+      "speak": "system",
+      "phonetic": "/ˈsɪstəm/",
+      "meaning": "系统",
+      "memory": "system → 系统",
+      "match": "system",
+      "example": "Earth is in the solar system. 地球在太阳系中。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "central",
+      "speak": "central",
+      "phonetic": "/ˈsentrəl/",
+      "meaning": "中心的",
+      "memory": "central → 中心的",
+      "match": "central",
+      "example": "At the central part of our solar system is the sun. 太阳位于我们太阳系的中心部分。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "circle",
+      "speak": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meaning": "圆圈",
+      "memory": "circle → 圆圈",
+      "match": "circle",
+      "example": "There are 8 planets in our solar system that all move around the sun in a big circle. 太阳系中有 8 颗行星，它们都围绕太阳沿一个大圆圈运动。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "gas",
+      "speak": "gas",
+      "phonetic": "/ɡæs/",
+      "meaning": "气体",
+      "memory": "gas → 气体",
+      "match": "gas",
+      "example": "As the biggest planet, Jupiter is made of gas. 作为最大的行星，木星由气体组成。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-013",
+      "word": "quite",
+      "speak": "quite",
+      "phonetic": "/kwaɪt/",
+      "meaning": "相当",
+      "memory": "quite → 相当",
+      "match": "quite",
+      "example": "The planet furthest away from the sun is Neptune, feeling quite lonely in the outer reaches. 离太阳最远的行星是海王星，它在遥远的外层区域显得相当孤独。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-014",
+      "word": "lonely",
+      "speak": "lonely",
+      "phonetic": "/ˈləʊnli/",
+      "meaning": "孤独的",
+      "memory": "lonely → 孤独的",
+      "match": "lonely",
+      "example": "The planet furthest away from the sun is Neptune, feeling quite lonely in the outer reaches. 离太阳最远的行星是海王星，它在遥远的外层区域显得相当孤独。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-015",
+      "word": "outer",
+      "speak": "outer",
+      "phonetic": "/ˈaʊtə(r)/",
+      "meaning": "外部的",
+      "memory": "outer → 外部的",
+      "match": "outer",
+      "example": "The planet furthest away from the sun is Neptune, feeling quite lonely in the outer reaches. 离太阳最远的行星是海王星，它在遥远的外层区域显得相当孤独。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-016",
+      "word": "reach",
+      "speak": "reach",
+      "phonetic": "/riːtʃ/",
+      "meaning": "到达；区域",
+      "memory": "reach → 到达；区域",
+      "match": "reach",
+      "example": "We live on the planet Earth. 我们生活在地球这颗行星上。",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "planet",
+      "phonetic": "/ˈplænɪt/",
+      "meaning": "行星"
+    },
+    {
+      "word": "creature",
+      "phonetic": "/ˈkriːtʃə(r)/",
+      "meaning": "生物"
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "/ˈkʌmftəbl/",
+      "meaning": "舒适的"
+    },
+    {
+      "word": "care",
+      "phonetic": "/keə(r)/",
+      "meaning": "照顾；关心"
+    },
+    {
+      "word": "brave",
+      "phonetic": "/breɪv/",
+      "meaning": "勇敢的"
+    },
+    {
+      "word": "astronaut",
+      "phonetic": "/ˈæstrənɔːt/",
+      "meaning": "宇航员"
+    },
+    {
+      "word": "rocket",
+      "phonetic": "/ˈrɒkɪt/",
+      "meaning": "火箭"
+    },
+    {
+      "word": "solar",
+      "phonetic": "/ˈsəʊlə(r)/",
+      "meaning": "太阳的"
+    },
+    {
+      "word": "system",
+      "phonetic": "/ˈsɪstəm/",
+      "meaning": "系统"
+    },
+    {
+      "word": "central",
+      "phonetic": "/ˈsentrəl/",
+      "meaning": "中心的"
+    },
+    {
+      "word": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meaning": "圆圈"
+    },
+    {
+      "word": "gas",
+      "phonetic": "/ɡæs/",
+      "meaning": "气体"
+    },
+    {
+      "word": "quite",
+      "phonetic": "/kwaɪt/",
+      "meaning": "相当"
+    },
+    {
+      "word": "lonely",
+      "phonetic": "/ˈləʊnli/",
+      "meaning": "孤独的"
+    },
+    {
+      "word": "outer",
+      "phonetic": "/ˈaʊtə(r)/",
+      "meaning": "外部的"
+    },
+    {
+      "word": "reach",
+      "phonetic": "/riːtʃ/",
+      "meaning": "到达；区域"
+    }
+  ]
+}

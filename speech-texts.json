@@ -1,0 +1,74 @@
+{
+  "voice": "adult male | teacher clear",
+  "reference": "12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "pages": [
+    {
+      "page": 0,
+      "visible": "Planet Earth and the Solar System",
+      "speech": "Planet Earth and the Solar System"
+    },
+    {
+      "page": 1,
+      "visible": "We live on the planet Earth.",
+      "speech": "We live on the planet Earth."
+    },
+    {
+      "page": 2,
+      "visible": "Our planet has water and land.",
+      "speech": "Our planet has water and land."
+    },
+    {
+      "page": 3,
+      "visible": "In the water, there are lots of amazing fish and sea creatures.",
+      "speech": "In the water, there are lots of amazing fish and sea creatures."
+    },
+    {
+      "page": 4,
+      "visible": "On land, we build comfortable homes, grow plants and take care of animals.",
+      "speech": "On land, we build comfortable homes, grow plants and take care of animals."
+    },
+    {
+      "page": 5,
+      "visible": "The moon travels around the earth.",
+      "speech": "The moon travels around the earth."
+    },
+    {
+      "page": 6,
+      "visible": "Brave astronauts travel to the moon in a rocket to see what they can find.",
+      "speech": "Brave astronauts travel to the moon in a rocket to see what they can find."
+    },
+    {
+      "page": 7,
+      "visible": "Earth is in the solar system.",
+      "speech": "Earth is in the solar system."
+    },
+    {
+      "page": 8,
+      "visible": "At the central part of our solar system is the sun.",
+      "speech": "At the central part of our solar system is the sun."
+    },
+    {
+      "page": 9,
+      "visible": "There are 8 planets in our solar system that all move around the sun in a big circle.",
+      "speech": "There are 8 planets in our solar system that all move around the sun in a big circle."
+    },
+    {
+      "page": 10,
+      "visible": "The planet closest to the sun is Mercury.",
+      "speech": "The planet closest to the sun is Mercury."
+    },
+    {
+      "page": 11,
+      "visible": "As the biggest planet, Jupiter is made of gas.",
+      "speech": "As the biggest planet, Jupiter is made of gas."
+    },
+    {
+      "page": 12,
+      "visible": "The planet furthest away from the sun is Neptune, feeling quite lonely in the outer reaches.",
+      "speech": "The planet furthest away from the sun is Neptune, feeling quite lonely in the outer reaches."
+    }
+  ]
+}
